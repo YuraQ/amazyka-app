@@ -1,0 +1,32 @@
+.order {
+    border: 1px solid #ddd;
+    padding: 16px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  }
+  
+  .order h5 {
+    margin-top: 0;
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .order strong {
+    display: block;
+    margin-bottom: 8px;
+    color: #555;
+  }
+  
+  .order li {
+    margin-left: 20px;
+    margin-bottom: 4px;
+    color: #444;
+  }
+  
+  .order p {
+    margin-top: 10px;
+    color: #666;
+  }
+  

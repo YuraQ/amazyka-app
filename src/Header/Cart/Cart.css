@@ -1,0 +1,44 @@
+.cart-container {
+  position: relative;
+  display: inline-block;
+}
+
+.cart-badge {
+  background-color: #fb8112;
+  position: absolute;
+  top: -5px;
+  right: -5px;
+  color: white;
+  font-size: 12px;
+  font-weight: bold;
+  border-radius: 50%;
+  width: 18px;
+  height: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.cart-container:hover svg { 
+  fill: #fb8112; 
+  transition: transform 0.3s ease, fill 0.3s ease;
+}
+
+.no-product {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  font-size: large;
+  font-weight: 500;
+  color: #999;
+}
+
+.imgNoProduct {
+  width: 50%;
+  height: 50%;
+  object-fit: cover;
+}
+

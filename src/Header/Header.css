@@ -1,0 +1,33 @@
+
+
+.Header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: aliceblue;
+    height: 10vh;
+    width: 100%;
+}
+
+.logo img {
+    height: 9vh;
+    padding: 20px;
+    
+}
+
+.icon-header {
+    display: flex; /* Вирівнювання елементів у рядок */
+  gap: 25px; /* Відступи між іконками */
+  align-items: center; /* Вирівнювання по вертикалі (за потреби) */   
+}
+
+.icon-header > *:hover {
+    fill: #fb8112;
+    transform: scale(1.2);
+    transition: transform 0.3s ease, color 0.3s ease;
+  }
+  
+  .icon-header > * {
+    color: gray;
+  }
+  

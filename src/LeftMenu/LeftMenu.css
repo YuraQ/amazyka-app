@@ -1,0 +1,25 @@
+.leftMenu {
+    
+    width: 120px;
+    background-color: #f5f5f5;
+    padding: 5px 0;
+    
+}
+
+.leftMenuH6 {
+    padding: 10px;
+    padding-top: 40px;
+}
+
+.priceInput {
+    width: 80%;
+    margin: 0 10px;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 10px;
+}
+
+.priceInput:focus {
+    border-color: blue; 
+    outline: none; /* Необов'язково: видаляє стандартний контур браузера */
+  }
