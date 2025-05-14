@@ -35,34 +35,6 @@ This is a simple e-commerce web application built with **React**, **Redux Toolki
 
 ---
 
-### 🚀 Getting Started
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/project-name.git
-   cd project-name
-   ```
-
-2. Install dependencies:
-
-   ```bash
-   yarn install
-   ```
-
-3. Run the development server:
-
-   ```bash
-   yarn start
-   ```
-
-4. Open in your browser:
-
-   ```
-   http://localhost:3000
-   ```
-
----
 
 ### 🗃 Data Source
 
@@ -70,12 +42,7 @@ Product data is fetched from the public API:
 👉 [https://fakestoreapi.com/products](https://fakestoreapi.com/products)
 
 
-
-
 ---
-
-Якщо хочеш, я можу одразу згенерувати `README.md` файл. Хочеш, щоб я зробив його для завантаження або додав в твій репозиторій?
-
 
 
 # Getting Started with Create React App
